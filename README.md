@@ -1,5 +1,5 @@
 # GolangSocks5Server
-A standalone SOCKS5 server written in Go
+A standalone SOCKS5 server written in Go.  Binaries can be downloaded from the [release page](https://github.com/leechristensen/GolangSocks5Server/releases).
 
 # Building
 1) Install Go (https://golang.org/doc/install) and setup your GOPATH
