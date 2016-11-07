@@ -10,7 +10,7 @@ go get github.com/leechristensen/GolangSocks5Server
 ```
 3) Build it
 ```
-go install github.com/leechristensen/GolangSSHServer
+go install github.com/leechristensen/GolangSocks5Server
 ```
 4) Run it
 ```
@@ -18,7 +18,7 @@ GolangSocks5Server 2222           Starts the SOCKS server on localhost:2222
 
 or
 
-GolangSocks5Server 0.0.0.0:2222   Starts the SOCKS server on 0.0.0.0:2222
+GolangSocks5Server 0.0.0.0 2222   Starts the SOCKS server on 0.0.0.0:2222
 ```
 
 # Thanks
